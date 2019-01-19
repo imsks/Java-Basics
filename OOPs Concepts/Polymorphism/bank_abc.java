@@ -5,10 +5,13 @@
 */
 
 public class bank_abc extends bank{
+	/*
 	int getIntrestRate(){
 		return 5;
 	}
+	*/
 
+	
 
 	public static void main(String[] args) {
 		
