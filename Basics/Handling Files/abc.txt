@@ -1,3 +1,2 @@
 This is my file content
 1000
-My name is sachin
